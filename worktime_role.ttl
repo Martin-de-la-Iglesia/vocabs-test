@@ -8,8 +8,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 wtr:scheme a skos:ConceptScheme ;
-    dct:title           "MPILHLT Begriffe der Arbeitszeitregelung, soziale Rollen"@de ,
-                        "MPILHLT concepts of regulations of working time, social roles"@en ;
+    dct:title           "Testdatei basierend auf MPILHLT Begriffe der Arbeitszeitregelung, soziale Rollen"@de ;
     dct:description     "Begriffsschema für Arbeitszeitregelungen, soziale Rollen"@de ,
                         "Concept scheme for regulations of working time, social roles"@en ;
     dct:created         "2022-06-07"^^xsd:date ;
